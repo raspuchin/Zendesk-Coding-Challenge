@@ -13,4 +13,20 @@ To run the program we have to run main.py
 
 Here are some screenshots
 
+Opening page
+![start](https://github.com/raspuchin/Zendesk-Coding-Challenge/blob/master/images/1.png?raw=true)
 
+Page 2
+![page 2](https://github.com/raspuchin/Zendesk-Coding-Challenge/blob/master/images/2.png?raw=true)
+
+Opening a ticket
+![ticket](https://github.com/raspuchin/Zendesk-Coding-Challenge/blob/master/images/3.png?raw=true)
+
+Back to table
+![back](https://github.com/raspuchin/Zendesk-Coding-Challenge/blob/master/images/4.png?raw=true)
+
+Page change
+![page change](https://github.com/raspuchin/Zendesk-Coding-Challenge/blob/master/images/5.png?raw=true)
+
+End
+![end](https://github.com/raspuchin/Zendesk-Coding-Challenge/blob/master/images/6.png?raw=true)
